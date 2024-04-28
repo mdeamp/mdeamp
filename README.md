@@ -1,4 +1,3 @@
-<h1>WIP</h1>
 
 <div align="center">
   <h1 style="font-size: 56px; font-family: monospace">👓 mdeamp 🛠</h1>
@@ -27,8 +26,8 @@ This is also where I show my current **learning projects**, what are my career r
 
 | Career | Experience | Comments |
 | --- | --- | --- |
-| Front-End Developer ⭐️ | 🟢🟢🟢 | Proficient in Web and Mobile development, employing various frameworks and methodologies. |
-| Back-End Developer 📚 | 🟢🟢⚪️ | Advanced experience limited to Node.js, exploring other stacks. |
+| Front-End ⭐️ | 🟢🟢🟢 | Proficient in Web and Mobile development, employing various frameworks and methodologies. |
+| Back-End 📚 | 🟢🟢⚪️ | Advanced experience limited to Node.js, exploring other stacks. |
 | Software Engineer ⭐️ | 🟢🟢🟢 | Continuously evolving while deeply engaging with concepts, patterns, and paradigms. |
 | Software Architect | 🟢🟢⚪️ | Skilled in conceptualizing, building, and documenting systems, as well as making technical decisions. |
 | Tech Lead ⭐️ | 🟢🟢🟢 | Demonstrated technical leadership in coordinating teams and project deliveries. |
@@ -55,7 +54,7 @@ This is also where I show my current **learning projects**, what are my career r
 | Dart | 🟢⚪️⚪️ | Flutter | 🟢⚪️⚪️ |
 | Swift | 🟢⚪️⚪️ | Ionic | 🟢🟢⚪️ |
 | Objective-C | 🟢⚪️⚪️ | Cordova | 🟢🟢⚪️ |
-| Pascal/Delphi | 🟢🟢⚪️ |
+| Pascal/Delphi | 🟢🟢⚪️ | Nextjs | 🟢🟢🟢 |
 | Python | ⚪️⚪️⚪️ |
 | Go | ⚪️⚪️⚪️ |
 | Ruby | ⚪️⚪️⚪️ |
@@ -63,18 +62,20 @@ This is also where I show my current **learning projects**, what are my career r
 | C++ 📚 | ⚪️⚪️⚪️ |
 | Rust | ⚪️⚪️⚪️ |
 
-### Additional Skills
+## Projects & Showcases
+
+![Coming sooon](https://img.shields.io/badge/Coming_soon-black)
 
 ## Additional Info
 
 - 💜 Married to my soulmate
 - 😼 Cat Dad
-- 🇺🇸 Fluent in English (formerly an English teacher)
 - 📚 Writer and Avid Reader
 - 📝 Analog over Digital
 - 💭 Keen Interest in Game Design
 - 🤖 Sci-Fi and Fantasy Enthusiast
 - 👾 Enjoys Retro Gaming
 - 🕊️ Seeking Simple Living
-- ✝️ Catholic
+- 🇺🇸 Fluent in English (formerly an English teacher)
+- ✝️ Open-minded Catholic
 - 😉 Diabetic, but Still Cool
