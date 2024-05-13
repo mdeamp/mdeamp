@@ -39,7 +39,7 @@ This is also where I show my current **learning projects**, what are my career r
 | Sales | 🟢🟢⚪️ | Contributed to PreSales activities, aiding in proposals and RFP responses. |
 | Project Manager | 🟢⚪️⚪️ | Leveraging Tech Lead experience to grasp fundamental project management principles. |
 
-## Skills
+## Languages and Frameworks
 
 | Coding | Experience | Front-End | Experience | Back-End | Experience
 | --- | --- | --- | --- | --- | --- |
