@@ -26,18 +26,19 @@ This is also where I show my current **learning projects**, what are my career r
 
 | Career | Experience | Comments |
 | --- | --- | --- |
-| Front-End ⭐️ | 🟢🟢🟢 | Proficient in Web and Mobile development, employing various frameworks and methodologies. |
-| Back-End 📚 | 🟢🟢⚪️ | Advanced experience limited to Node.js, exploring other stacks. |
-| Software Engineer ⭐️ | 🟢🟢🟢 | Continuously evolving while deeply engaging with concepts, patterns, and paradigms. |
+| Front-End | 🟢🟢🟢 | ⭐️ Proficient in Web and Mobile development, employing various frameworks and methodologies. |
+| Back-End | 🟢🟢⚪️ | 📚 Advanced experience limited to Node.js, exploring other stacks. |
+| Software Engineer | 🟢🟢🟢 | ⭐️ Continuously evolving while deeply engaging with concepts, patterns, and paradigms. |
 | Software Architect | 🟢🟢⚪️ | Skilled in conceptualizing, building, and documenting systems, as well as making technical decisions. |
-| Tech Lead ⭐️ | 🟢🟢🟢 | Demonstrated technical leadership in coordinating teams and project deliveries. |
+| Tech Lead | 🟢🟢🟢 | ⭐️ Demonstrated technical leadership in coordinating teams and project deliveries. |
 | Solutions Architect | 🟢⚪️⚪️ | Exploring this domain with growing interest. |
-| Cloud Engineer 📚 | 🟢🟢⚪️ | Proficient in AWS with knowledge of Azure and GCP, primarily focused on software-centric solutions. |
+| Cloud Engineer | 🟢🟢⚪️ | 📚 Proficient in AWS with knowledge of Azure and GCP, primarily focused on software-centric solutions. |
 | Cloud Architect | 🟢⚪️⚪️ | Future exploration aligned with cloud infrastructure design. |
 | DevSecOps Engineer | 🟢⚪️⚪️ | Emphasizing software-centric approaches with security and operations integration. |
-| Business & Admin 📚 | 🟢⚪️⚪️ | Experience across diverse industries, transitioning focus to higher-level business administration. |
+| Business & Admin | 🟢⚪️⚪️ | 📚 Experience across diverse industries, transitioning focus to higher-level business administration. |
 | Sales | 🟢🟢⚪️ | Contributed to PreSales activities, aiding in proposals and RFP responses. |
 | Project Manager | 🟢⚪️⚪️ | Leveraging Tech Lead experience to grasp fundamental project management principles. |
+| Game Developer | 🟢⚪️⚪️ | Something I'm quite interested in, but more as a hobby. |
 
 ## Languages and Frameworks
 
