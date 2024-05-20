@@ -34,10 +34,10 @@ Welcome to my personal **skill showcase**! Explore my expertise in various tech 
 
 ## Languages & Frameworks
 
-| Category   | Main Skills            | Additional Skills                                                                    |
-| ---------- | ---------------------- | ------------------------------------------------------------------------------------ |
-| Coding     | JavaScript, TypeScript | ShellScript, Dart, Swift, Objective-C, Pascal/Delphi, Python, Go, Ruby, C, C++, Rust |
-| Front-End  | React, Angular         | Vue, jQuery, Native Android, Native iOS, Cordova, Nextjs, React Native               |
-| Back-End   | Node.js, Fastify       | Nest.js, Spring, .NET Core, Django                                                   |
-| Mobile Dev | React Native, Flutter  | Ionic                                                                                |
-| Others     | Java, Kotlin           | SQL, NoSQL                                                                           |
+| Category   | Main Skills            | Additional Skills                                                                |
+| ---------- | ---------------------- | -------------------------------------------------------------------------------- |
+| Coding     | JavaScript, TypeScript | Java, Kotlin, ShellScript, Dart, Swift, Objective-C, Pascal/Delphi, Ruby, C, C++ |
+| Front-End  | React, Angular         | Vue, jQuery, Native Android, Native iOS, Cordova, Nextjs, React Native           |
+| Back-End   | Node.js, SQL, NoSQL    | Nest.js, Fastify, Spring, .NET Core                                              |
+| Mobile Dev | React Native, Flutter  | Ionic, Native Android, Native iOS                                                |
+| Planned    | Python, Go, Rust       |
