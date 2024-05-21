@@ -37,9 +37,16 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 **Insights**: In progress...
 
+**Badges**:
+
+- 
+
 **Resources**:
 
-- [AWS Cloud Practitioner Essentials (free)](https://www.aws.training/Details/Curriculum?id=68838)
+- [AWS SkillBuilder: Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+- [AWS SkillBuilder: Becoming a Cloud Practitioner Half-Quiz](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14705/aws-skills-centers-becoming-a-cloud-practitioner-half-quiz-review)
+- [AWS SkillBuilder: Becoming a Cloud Practitioner Full-Quiz](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14703/aws-skills-centers-becoming-a-cloud-practitioner-full-quiz-review)
+- [freeCodeCamp - CLF-C02 Certification Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
 
 ---
 
