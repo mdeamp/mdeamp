@@ -4,15 +4,9 @@ Hello! I'm Mauricio, a **Software Engineer**, **FullStack Developer**, and **Tec
 
 Welcome to my personal **skill showcase**! Explore my expertise in various tech domains and get a glimpse of my learning projects and career roadmaps.
 
-<a href="/learning">
-  <img src="https://img.shields.io/badge/Learning-black" alt="Learning" height="32">
-</a>
-<a href="/badges">
-  <img src="https://img.shields.io/badge/Badges-gold" alt="Badges" height="32">
-</a>
-<a href="/projects">
-  <img src="https://img.shields.io/badge/Projects-silver" alt="Projects" height="32">
-</a>
+[![Learning](https://img.shields.io/badge/Learning-Continuous%20Improvement-blue?style=for-the-badge&logo=google-classroom)](/learning/README.md)
+
+[![Projects](https://img.shields.io/badge/Projects-Innovation%20in%20Action-green?style=for-the-badge&logo=github)](/learning/README.md)
 
 ## Career Roadmaps
 

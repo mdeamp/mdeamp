@@ -4,55 +4,125 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ### Currently Learning
 
-| Roadmap             | Learning Track                                                                                    | Progress                            | Certification |
-| ------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------- |
-| [AWS](#aws)         | [AWS Cloud Practitioner](#aws-cloud-practitioner)                                                 | ![15%](https://progress-bar.dev/15) | freeCodeCamp  |
-| [Flutter](#flutter) | [Flutter - Core Foundations](#flutter---core-foundations)                                         | ![20%](https://progress-bar.dev/20) | Custom        |
-| [GameDev](#gamedev) | [JavaScript Game Development - Core Foundations](#javascript-game-development---core-foundations) | ![15%](https://progress-bar.dev/15) | Custom        |
-| [GenAI](#genai)     | [Gen AI - Core Foundations](#gen-ai---core-foundations)                                           | ![25%](https://progress-bar.dev/25) | Custom        |
-| [Kotlin](#kotlin)   | [Kotlin - Core Foundations](#kotlin---core-foundations)                                           | ![40%](https://progress-bar.dev/40) | Custom        |
-| [WebDev](#webdev)   | [HTML5 Canvas - Advanced Implementation](#html5-canvas---advanced-implementation)                 | ![70%](https://progress-bar.dev/70) | Custom        |
+| Roadmap             | Learning Track                                                      | Progress                            |
+| ------------------- | ------------------------------------------------------------------- | ----------------------------------- |
+| [AI](#ai)           | [Custom - Gen AI - Core Foundations](#)                             | ![10%](https://progress-bar.dev/10) |
+| [AWS](#aws)         | [freeCodeCamp - AWS - Cloud Practitioner CLF-C02 (Andrew Brown)](#) | ![0%](https://progress-bar.dev/0)   |
+| [Flutter](#flutter) | [Flutter Guys - Noob to Junior](#)                                  | ![50%](https://progress-bar.dev/50) |
+| [GameDev](#gamedev) | [Custom - JavaScript GameDev Core Foundations](#)                   | ![50%](https://progress-bar.dev/50) |
+| [Kotlin](#kotlin)   | [freeCodeCamp - Kotlin - Full Course](#)                            | ![10%](https://progress-bar.dev/10) |
+| [WebDev](#webdev)   | [ChrisCourses - HTML5 Canvas](#)                                    | ![70%](https://progress-bar.dev/70) |
 
 ### Completed Studies
 
-| Roadmap           | Learning Track                                                       | Progress                              | Type   |
-| ----------------- | -------------------------------------------------------------------- | ------------------------------------- | ------ |
-| [WebDev](#webdev) | [HTML5 Canvas - Core Foundations](#html5-canvas---core-foundations-) | ![100%](https://progress-bar.dev/100) | Custom |
+| Roadmap             | Learning Track                                            | Progress                              | Certification                                                                            |
+| ------------------- | --------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [Android](#android) | [freeCodeCamp - Android - Intro Course (Rahul Pandey)](#) | ![100%](https://progress-bar.dev/100) | Free Course                                                                              |
+| [WebDev](#android)  | [freeCodeCamp - Responsive Web Development](#)            | ![100%](https://progress-bar.dev/100) | [Certification](https://www.freecodecamp.org/certification/mdeamp/responsive-web-design) |
 
 ### Planned Studies
 
-| Roadmap         | Learning Track                                                                   | Type   |
-| --------------- | -------------------------------------------------------------------------------- | ------ |
-| [GenAI](#genai) | [Gen AI - Fundamentals for Development](#gen-ai---fundamentals-for-development-) | Custom |
+| Roadmap         | Learning Track                                               |
+| --------------- | ------------------------------------------------------------ |
+| [AI](#ai)       | [freeCodeCamp - Data Science - Overview (Barton Poulson)](#) |
+| [C/C++](#c-cpp) | [freeCodeCamp - C - Intro Course (Mike Dane)](#)             |
+| [C/C++](#c-cpp) | [freeCodeCamp - C++ - Intro Course (Mike Dane)](#)           |
 
 ---
 
 ## Details and Resources
 
-### AWS
+<span id="aws">![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws)</span>
 
-#### AWS Cloud Practitioner
+#### AWS SkillBuilder - Cloud Practitioner Essentials
 
-**Description**: Preparing for the AWS Certified Cloud Practitioner exam.
+**Description**: AWS Cloud Practitioner Essentials on the SkillBuilder platform.
 
 **Insights**: In progress...
-
-**Badges**:
-
-- 
 
 **Resources**:
 
 - [AWS SkillBuilder: Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 - [AWS SkillBuilder: Becoming a Cloud Practitioner Half-Quiz](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14705/aws-skills-centers-becoming-a-cloud-practitioner-half-quiz-review)
 - [AWS SkillBuilder: Becoming a Cloud Practitioner Full-Quiz](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14703/aws-skills-centers-becoming-a-cloud-practitioner-full-quiz-review)
-- [freeCodeCamp - CLF-C02 Certification Course](https://www.youtube.com/watch?v=NhDYbskXRgc)
+
+#### freeCodeCamp - AWS - Cloud Practitioner CLF-C02 (Andrew Brown)
+
+**Description**: Preparing for the AWS Certified Cloud Practitioner exam.
+
+**Insights**: In progress...
+
+**Resources**:
+
+- [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!](https://www.youtube.com/watch?v=NhDYbskXRgc)
 
 ---
 
-### Flutter
+<span id="ai">![AI](https://img.shields.io/badge/ai-232F3E?style=for-the-badge)</span>
 
-#### Flutter - Core Foundations
+#### Custom - Gen AI - Core Foundations
+
+**Description**: Learning the core concepts of Artificial Intelligence for general applications.
+
+**Insights**: In progress...
+
+**Resources**:
+
+- [Guia Completo Sobre Inteligência Artificial Generativa](https://blog.dsacademy.com.br/guia-completo-sobre-inteligencia-artificial-generativa/i)
+
+#### freeCodeCamp - Data Science - Overview (Barton Poulson)
+
+**Description**: Overview of data science and its applications.
+
+**Insights**: Planning.
+
+**Resources**:
+
+- [Data Science Overview](https://www.youtube.com/watch?v=ua-CiDNNj30)
+
+---
+
+<span id="android">![Android](https://img.shields.io/badge/android-232F3E?style=for-the-badge&logo=android&logoColor=white)</span>
+
+#### freeCodeCamp - Android - Intro Course (Rahul Pandey)
+
+**Description**: Introduction to Android development with Kotlin.
+
+**Insights**: Completed.
+
+**Resources**:
+
+- [Android Development for Beginners (free)](https://developer.android.com/training/basics/firstapp)
+
+---
+
+<span id="c-cpp">![C/C++](https://img.shields.io/badge/c_c++-232F3E?style=for-the-badge&logo=c&logoColor=white)</span>
+
+#### freeCodeCamp - C - Intro Course (Mike Dane)
+
+**Description**: Introduction to programming in C.
+
+**Insights**: Planning.
+
+**Resources**:
+
+- [C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+
+#### freeCodeCamp - C++ - Intro Course (Mike Dane)
+
+**Description**: Introduction to programming in C++.
+
+**Insights**: Planning.
+
+**Resources**:
+
+- [C++ Programming Tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+
+---
+
+<span id="flutter">![Flutter](https://img.shields.io/badge/flutter-232F3E?style=for-the-badge&logo=flutter)</span>
+
+#### Flutter Guys - Noob to Junior
 
 **Description**: Building the core foundations of Flutter for cross-platform mobile app development.
 
@@ -65,9 +135,9 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-### GameDev
+<span id="gamedev">![GameDev](https://img.shields.io/badge/gamedev-232F3E?style=for-the-badge)</span>
 
-#### JavaScript Game Development - Core Foundations
+#### Custom - JavaScript GameDev Core Foundations
 
 **Description**: Building the core foundations of game development using JavaScript.
 
@@ -79,33 +149,9 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-### GenAI
+<span id="kotlin">![Kotlin](https://img.shields.io/badge/kotlin-232F3E?style=for-the-badge&logo=kotlin&logoColor=white)</span>
 
-#### Gen AI - Core Foundations
-
-**Description**: Learning the core concepts of Artificial Intelligence for general applications.
-
-**Insights**: In progress...
-
-**Resources**:
-
-- [Artificial Intelligence: Principles and Techniques (free)](https://www.coursera.org/learn/ai)
-
-#### Gen AI - Fundamentals for Development
-
-**Description**: Understanding the fundamentals of AI for development purposes.
-
-**Insights**: Planned.
-
-**Resources**:
-
-- [Introduction to AI Development](https://www.coursera.org/learn/ai-development)
-
----
-
-### Kotlin
-
-#### Kotlin - Core Foundations
+#### freeCodeCamp - Kotlin - Full Course
 
 **Description**: Mastering the core foundations of the Kotlin programming language.
 
@@ -118,9 +164,9 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-### WebDev
+<span id="webdev">![WebDev](https://img.shields.io/badge/webdev-232F3E?style=for-the-badge&logo=html5&logoColor=white)</span>
 
-#### HTML5 Canvas - Advanced Implementation
+#### ChrisCourses - HTML5 Canvas
 
 **Description**: Implementing advanced features and techniques in HTML5 Canvas.
 
@@ -131,13 +177,14 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 - [HTML5 Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
 - [Advanced HTML5 Canvas Udemy Course (free audit)](https://www.udemy.com/course/advanced-html5-canvas/)
 
-#### HTML5 Canvas - Core Foundations
+#### freeCodeCamp - Responsive Web Development
 
-**Description**: Learning the core concepts and techniques of HTML5 Canvas.
+**Description**: Learning the core concepts and techniques of responsive web development.
 
 **Insights**: Completed.
 
 **Resources**:
 
-- [HTML5 Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-- [HTML5 Canvas Course](https://www.udemy.com/course/html5-canvas/)
+- [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+---
