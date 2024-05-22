@@ -6,33 +6,34 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 | Roadmap             | Learning Track                                                                                                                  | Progress                            |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [AI](#ai)           | [Custom - Generative AI - Core Foundations](#)                                                                                  | ![10%](https://progress-bar.dev/10) |
+| [AI](#ai)           | [Custom - Generative AI - Core Foundations](#-custom---generative-ai---core-foundations)                                        | ![10%](https://progress-bar.dev/10) |
 | [AWS](#aws)         | [freeCodeCamp - AWS - Cloud Practitioner CLF-C02 (Andrew Brown)](#freecodecamp---aws---cloud-practitioner-clf-c02-andrew-brown) | ![0%](https://progress-bar.dev/0)   |
-| [Flutter](#flutter) | [Flutter Guys - Noob to Junior](#)                                                                                              | ![50%](https://progress-bar.dev/50) |
-| [GameDev](#gamedev) | [Custom - JavaScript GameDev Core Foundations](#)                                                                               | ![50%](https://progress-bar.dev/50) |
-| [Kotlin](#kotlin)   | [freeCodeCamp - Kotlin - Full Course](#)                                                                                        | ![10%](https://progress-bar.dev/10) |
-| [WebDev](#webdev)   | [ChrisCourses - HTML5 Canvas](#)                                                                                                | ![70%](https://progress-bar.dev/70) |
+| [Flutter](#flutter) | [Flutter Guys - Noob to Junior](#-flutter-guys---noob-to-junior)                                                                | ![50%](https://progress-bar.dev/50) |
+| [GameDev](#gamedev) | [Custom - JavaScript GameDev Core Foundations](#-custom---javascript-gamedev-core-foundations)                                  | ![50%](https://progress-bar.dev/50) |
+| [Kotlin](#kotlin)   | [freeCodeCamp - Kotlin - Full Course](#-freecodecamp---kotlin---full-course)                                                    | ![10%](https://progress-bar.dev/10) |
+| [WebDev](#webdev)   | [ChrisCourses - HTML5 Canvas](#-chriscourses---html5-canvas)                                                                    | ![70%](https://progress-bar.dev/70) |
 
 ### Completed Studies
 
-| Roadmap             | Learning Track                                            | Progress                              |
-| ------------------- | --------------------------------------------------------- | ------------------------------------- |
-| [Android](#android) | [freeCodeCamp - Android - Intro Course (Rahul Pandey)](#) | ![100%](https://progress-bar.dev/100) |
-| [WebDev](#android)  | [freeCodeCamp - Responsive Web Development](#)            | ![100%](https://progress-bar.dev/100) |
+| Roadmap             | Learning Track                                                                                               | Progress                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| [Android](#android) | [freeCodeCamp - Android - Intro Course (Rahul Pandey)](#-freecodecamp---android---intro-course-rahul-pandey) | ![100%](https://progress-bar.dev/100) |
+| [WebDev](#android)  | [freeCodeCamp - Responsive Web Development](#-freecodecamp---responsive-web-development)                     | ![100%](https://progress-bar.dev/100) |
 
 ### Planned Studies
 
-| Roadmap         | Learning Track                                               |
-| --------------- | ------------------------------------------------------------ |
-| [AI](#ai)       | [freeCodeCamp - Data Science - Overview (Barton Poulson)](#) |
-| [C/C++](#c-cpp) | [freeCodeCamp - C - Intro Course (Mike Dane)](#)             |
-| [C/C++](#c-cpp) | [freeCodeCamp - C++ - Intro Course (Mike Dane)](#)           |
+| Roadmap         | Learning Track                                                                                                     | Plan |
+| --------------- | ------------------------------------------------------------------------------------------------------------------ | ---- |
+| [AI](#ai)       | [freeCodeCamp - Data Science - Overview (Barton Poulson)](#-freecodecamp---data-science---overview-barton-poulson) | 2024 |
+| [AWS](#aws)     | [AWS SkillBuilder - Cloud Practitioner Essentials](#-aws-skillbuilder---cloud-practitioner-essentials)             | 2024 |
+| [C/C++](#c-cpp) | [freeCodeCamp - C - Intro Course (Mike Dane)](#-freecodecamp---c---intro-course-mike-dane)                         | 2024 |
+| [C/C++](#c-cpp) | [freeCodeCamp - C++ - Intro Course (Mike Dane)](#-freecodecamp---c-cpp---intro-course-mike-dane)                   | 2024 |
 
 ---
 
 ## Details and Resources
 
-<span id="aws">![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws)</span>
+### <span id="aws">![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws)</span>
 
 #### ⚪ AWS SkillBuilder - Cloud Practitioner Essentials
 
@@ -62,7 +63,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-<span id="ai">![AI](https://img.shields.io/badge/ai-232F3E?style=for-the-badge&logo=openai&logoColor=white)</span>
+### <span id="ai">![AI](https://img.shields.io/badge/ai-232F3E?style=for-the-badge&logo=openai&logoColor=white)</span>
 
 #### ⚪ Custom - Generative AI - Core Foundations
 
@@ -76,9 +77,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 - [Guia Completo Sobre Inteligência Artificial Generativa](https://blog.dsacademy.com.br/guia-completo-sobre-inteligencia-artificial-generativa/i)
 
-#### ⚪ Coursera - Generative AI with Large Language Models
-
-#### freeCodeCamp - Data Science - Overview (Barton Poulson)
+#### ⚪ freeCodeCamp - Data Science - Overview (Barton Poulson)
 
 **Description**: Overview of data science and its applications.
 
@@ -92,7 +91,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-<span id="android">![Android](https://img.shields.io/badge/android-232F3E?style=for-the-badge&logo=android&logoColor=white)</span>
+### <span id="android">![Android](https://img.shields.io/badge/android-232F3E?style=for-the-badge&logo=android&logoColor=white)</span>
 
 #### 🟢 freeCodeCamp - Android - Intro Course (Rahul Pandey)
 
@@ -108,7 +107,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-<span id="c-cpp">![C/C++](https://img.shields.io/badge/c_c++-232F3E?style=for-the-badge&logo=c&logoColor=white)</span>
+### <span id="c-cpp">![C/C++](https://img.shields.io/badge/c_c++-232F3E?style=for-the-badge&logo=c&logoColor=white)</span>
 
 #### ⚪ freeCodeCamp - C - Intro Course (Mike Dane)
 
@@ -122,7 +121,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 - [C Programming Tutorial](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
-#### ⚪ freeCodeCamp - C++ - Intro Course (Mike Dane)
+#### ⚪ freeCodeCamp - C++ (CPP) - Intro Course (Mike Dane)
 
 **Description**: Introduction to programming in C++.
 
@@ -136,7 +135,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-<span id="flutter">![Flutter](https://img.shields.io/badge/flutter-232F3E?style=for-the-badge&logo=flutter&logoColor=white)</span>
+### <span id="flutter">![Flutter](https://img.shields.io/badge/flutter-232F3E?style=for-the-badge&logo=flutter&logoColor=white)</span>
 
 #### ⚪ Flutter Guys - Noob to Junior
 
@@ -153,7 +152,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-<span id="gamedev">![GameDev](https://img.shields.io/badge/gamedev-232F3E?style=for-the-badge&logo=nintendo3ds&logoColor=white)</span>
+### <span id="gamedev">![GameDev](https://img.shields.io/badge/gamedev-232F3E?style=for-the-badge&logo=nintendo3ds&logoColor=white)</span>
 
 #### ⚪ Custom - JavaScript GameDev Core Foundations
 
@@ -169,7 +168,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-<span id="kotlin">![Kotlin](https://img.shields.io/badge/kotlin-232F3E?style=for-the-badge&logo=kotlin&logoColor=white)</span>
+### <span id="kotlin">![Kotlin](https://img.shields.io/badge/kotlin-232F3E?style=for-the-badge&logo=kotlin&logoColor=white)</span>
 
 #### ⚪ freeCodeCamp - Kotlin - Full Course
 
@@ -184,7 +183,7 @@ Welcome to my learning journey! Here, you can explore the roadmaps I'm currently
 
 ---
 
-<span id="webdev">![WebDev](https://img.shields.io/badge/webdev-232F3E?style=for-the-badge&logo=html5&logoColor=white)</span>
+### <span id="webdev">![WebDev](https://img.shields.io/badge/webdev-232F3E?style=for-the-badge&logo=html5&logoColor=white)</span>
 
 #### ⚪ ChrisCourses - HTML5 Canvas
 
